@@ -1,0 +1,38 @@
+.homeSec {
+  margin-top: 150px;
+}
+.my {
+  width: 700px;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+p {
+  font-size: 1.2rem;
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+h1 {
+  font-family: "Lalezar", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3.5rem;
+}
+.smlink {
+  width: 50px;
+  height: 50px;
+}
+.about {
+  min-height: 100vh;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+}
+.myskills {
+  min-height: 100vh;
+  height: auto;
+}
